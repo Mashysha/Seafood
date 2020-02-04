@@ -1,2 +1,2 @@
 # Seafood
-Seafood Restaurant website for demo purpose
+The Seafood Restaurant responsive html website (for demo purpose only) 
